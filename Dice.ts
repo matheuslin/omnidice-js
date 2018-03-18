@@ -19,4 +19,5 @@ class Dice {
 	}
 }
 
-export = Dice;
+
+export { Dice };
